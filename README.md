@@ -14,17 +14,6 @@
 |**带有删除线的部分表示不适用或已经废弃。**|
 |**自2021.11.18起不再部署caddy，改为单一部署以减少项目大小，提高项目稳定性，不保证本项目有被封的可能。**|
 
-# English version
-
-|**Pay Attenation**|
-|:----------------|
-|**If you can continue to use it, please keep a low profile.**|
-|**Fork this project, replace Dimitri2020007 in readme.md with your own user name before deploying, it is very important, remember!!!!**|
-|**If the prompt We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy. appears, return to the warehouse, >Setting>Repository name to modify the warehouse name.**|
-|**The part with a strikethrough indicates that it is not applicable or has been obsoleted.**|
-|**The reason for choosing not to repost to any website is to get together for a longer time. I hope you can find beautiful and interesting places outside the wall.**|
-|**Since 2021.11.18, caddy will no longer be deployed, but a single deployment will be used to reduce the size of the project and improve the stability of the project. There is no guarantee that this project may be blocked.**|
-
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/GreenKaylin/Vless02.git)
 
 # VLESS Client Setup
